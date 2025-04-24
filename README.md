@@ -47,7 +47,7 @@
 
 <p align="center">
   <strong>Backend:</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c" />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript" />
 </p>
 
 <p align="center">
