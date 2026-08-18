@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/sigmamale" target="_blank">
+  <a href="https://discord.gg/memez" target="_blank">
     <img align="center" src="https://lanyard.cnrad.dev/api/669264985947373596" />
   </a>
 </p>
